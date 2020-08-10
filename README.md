@@ -1,5 +1,5 @@
 "# RegisterUnity_SGD_v2" 
-This repository is the verison 2 of Unity Registration automation in the website http://sgd2.lab245.com.br/.
+This repository is the version 2 of Automation in the website http://sgd2.lab245.com.br/.
 
 I did this v2 to improve OPP skill with Python Language and all other libraries in the project.
 
