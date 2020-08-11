@@ -16,15 +16,13 @@ class UserFunctions:
 #Getters and Setters
     #login
     def set_login(self):
-        self.login = ("gabriel.pelai.ter")
-        #self.login = input("Insira seu login: ")
+        self.login = input("Insira seu login: ")
     def get_login(self):
         return self.login
 
     #senha
     def set_senha(self):
-        self.senha = ("Gp4e129757")
-        #self.senha = input("Insira sua senha: ")
+        self.senha = input("Insira sua senha: ")
     def get_senha(self):
         return self.senha
 
