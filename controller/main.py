@@ -17,6 +17,7 @@ navigator = NavigatorFunctions(bot)
 excel.import_excel()
 user.user_autentication()
 navigator.navigate_to_unities()
-excel.register_unidades()
+excel.module_unidades()
 
+print("Finishing program...")
 bot.close()

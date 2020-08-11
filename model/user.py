@@ -1,7 +1,7 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support.expected_conditions import presence_of_element_located, visibility_of_element_located
+from selenium.webdriver.support.expected_conditions import presence_of_element_located
 
 class UserFunctions:
     def __init__(self, driver):
@@ -16,9 +16,8 @@ class UserFunctions:
 #Getters and Setters
     #login
     def set_login(self):
-        self.login = "gabriel.pelai.ter"
+        self.login = ("gabriel.pelai.ter")
         #self.login = input("Insira seu login: ")
-
     def get_login(self):
         return self.login
 
@@ -26,7 +25,6 @@ class UserFunctions:
     def set_senha(self):
         self.senha = ("Gp4e129757")
         #self.senha = input("Insira sua senha: ")
-
     def get_senha(self):
         return self.senha
 

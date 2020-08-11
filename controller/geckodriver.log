@@ -406,3 +406,359 @@ JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName i
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1596994282745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofilefeQ86f"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596994288146	Marionette	INFO	Listening on port 55062
+1596994288638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596994291385	Marionette	INFO	Stopped listening on port 55062
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596994348520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofileseNViC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596994352395	Marionette	INFO	Listening on port 55124
+1596994352685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1596994462492	Marionette	INFO	Stopped listening on port 55124
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597154013352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofileZNHuS1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597154018043	Marionette	INFO	Listening on port 61608
+1597154018109	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597154094181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofile3NK9TI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597154096835	Marionette	INFO	Listening on port 61698
+1597154097338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597154233282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofile697dtS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597154235902	Marionette	INFO	Listening on port 61828
+1597154235933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597154296554	Marionette	INFO	Stopped listening on port 61828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597154826822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofileizMbKq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597154829590	Marionette	INFO	Listening on port 62181
+1597154829938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597154890106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofileLyBfXM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597154892856	Marionette	INFO	Listening on port 62270
+1597154893217	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597156880050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofileAKFOph"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597156882740	Marionette	INFO	Listening on port 63303
+1597156883166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597157034523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Use
+###!!! [Child][MessageChannel::SendAndWait] Error: ChaJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597157037101	Marionette	INFO	Listening on port 63437
+1597157037151	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597158586824	Marionette	INFO	Stopped listening on port 63437
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597157124293	Marionette	INFO	Listening on port 63538
+1597157124590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597157195162	Marionette	INFO	Stopped listening on port 63538
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597157201268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofileuOGGev"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597157203816	Marionette	INFO	Listening on port 63635
+1597157203919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597158590205	Marionette	INFO	Stopped listening on port 63635
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597157530191	Marionette	INFO	Listening on port 63853
+1597157530247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597157662398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofileoPK6Fn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597157664938	Marionette	INFO	Listening on port 64026
+1597157665032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597158590621	Marionette	INFO	Stopped listening on port 64026
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597157940134	Marionette	INFO	Listening on port 64224
+1597157940336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597158009287	Marionette	INFO	Stopped listening on port 64224
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597158047601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofileVT08Lq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597158050687	Marionette	INFO	Listening on port 64340
+1597158050723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597158075618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofilews9Dcu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597158078181	Marionette	INFO	Listening on port 64408
+1597158078249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597158381608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofile4uNrrW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597158384159	Marionette	INFO	Listening on port 64622
+1597158384277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597158590937	Marionette	INFO	Stopped listening on port 64622
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597158582651	Marionette	INFO	Listening on port 64782
+1597158582692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597158595921	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1597158600540	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1597158721837	Marionette	INFO	Stopped listening on port 64782
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597158728010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofilev7ZPW7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597158730691	Marionette	INFO	Listening on port 64910
+1597158731162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597161725118	Marionette	INFO	Stopped listening on port 64910
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597159121325	Marionette	INFO	Listening on port 65155
+1597159121531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597159436614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofile9rfiCk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597159439139	Marionette	INFO	Listening on port 65373
+1597159439251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597159894549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofile8dud4E"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597159897086	Marionette	INFO	Listening on port 49255
+1597159897212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597163142669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofile3K22AF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597163147230	Marionette	INFO	Listening on port 51353
+1597163147390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597163205868	Marionette	INFO	Stopped listening on port 51353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597165457794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofilecY5l1p"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597165461851	Marionette	INFO	Listening on port 51583
+1597165461915	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597165578862	Marionette	INFO	Stopped listening on port 51583
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597169616362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofile2XksOq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597169620129	Marionette	INFO	Listening on port 52163
+1597169620476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597169769058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofilec7yzwp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597169772622	Marionette	INFO	Listening on port 52228
+1597169772671	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597169901781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofiledghQMs"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597169905491	Marionette	INFO	Listening on port 52292
+1597169905896	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597170151737	Marionette	INFO	Stopped listening on port 52292
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597170163358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofileSvjA7b"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597170166944	Marionette	INFO	Listening on port 61213
+1597170167230	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597170232847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofileMcJ2AV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597170236435	Marionette	INFO	Listening on port 61271
+1597170236477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1597170376310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofiledY02ML"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597170380163	Marionette	INFO	Listening on port 61336
+1597170380452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597170456087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofileOEAZwp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597170459511	Marionette	INFO	Listening on port 61394
+1597170459702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597170522658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofiletvHtcQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597170526213	Marionette	INFO	Listening on port 61450
+1597170526273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597170705026	Marionette	INFO	Stopped listening on port 61450
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597170931354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofilexo0Rk1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597170935650	Marionette	INFO	Listening on port 61522
+1597170936073	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597171172776	Marionette	INFO	Stopped listening on port 61522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597171104287	Marionette	INFO	Listening on port 61592
+1597171104632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597171864080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofile2J4X6B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597171867758	Marionette	INFO	Listening on port 61682
+1597171868193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597172033262	Marionette	INFO	Stopped listening on port 61682
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597172123299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofile64SB7T"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597172126975	Marionette	INFO	Listening on port 61756
+1597172127411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1597172237881	Marionette	INFO	Stopped listening on port 61756
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+eadCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597172236730	Marionette	INFO	Listening on port 61819
+1597172236926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
+1597172468654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pelai\\AppData\\Local\\Temp\\rust_mozprofileo3INvX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597172471883	Marionette	INFO	Listening on port 61887
+1597172472266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgd2.lab245.com.br/, line 1: ReferenceError: showName is not defined
