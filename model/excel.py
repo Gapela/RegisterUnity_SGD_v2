@@ -104,7 +104,9 @@ class ExcelFunctions:
         self.find(self.FIELD_Instituicao).send_keys(self.ies[i])
 
         self.click_Listar()
-        sleep(5)
+        sleep(1)
+        self.click_Listar()
+        sleep(3)
 
     def module_unidades(self):
         print("Starting Registration...\n")
